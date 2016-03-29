@@ -3,6 +3,7 @@
 
 $white : floralwhite;
 
+
 body {
-  background-color: $white;
+  background-color: darken($white, 5%);
 }
